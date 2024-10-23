@@ -1,10 +1,4 @@
-# « About Me:
-🔭 I’m currently working on
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with
-🌱 I’m currently learning
-💬 Ask me about
-⚡ Fun fact
+# 🌐 About Me:
 🔭 I'm currently working on an e-commerce application project with the Flutter framework
 🌱 I'm currently learning Machine learning 
 💬 Ask me about: 
